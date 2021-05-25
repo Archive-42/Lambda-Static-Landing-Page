@@ -1,6 +1,6 @@
 baseURL = "www.example.com"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Bryan Guner Lambda Resources"
 
 [params]
 google_analytics_id = ""
