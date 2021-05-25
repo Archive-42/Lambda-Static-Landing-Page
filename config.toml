@@ -13,7 +13,7 @@ google_tag_manager_id = ""
   [params.logo]
   mobile = "images/imageonline-co-overlayed-image.png"
   mobile_height = "36px"
-  desktop = "images/webdevhub.PNG"
+  desktop = "images/imageonline-co-overlayed-image.png"
   desktop_height = "36px"
   alt = "Serif - A Hugo Business Theme"
 
