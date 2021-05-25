@@ -47,7 +47,7 @@ url = "https://lambda-static-resources.netlify.app/2-resources/directory.html"
 weight = 3
 
 [[menu.main]]
-name = "Other Websites"
+name = "Blog"
 url = "https://best-celery-b2d7c.netlify.app/docs/links/"
 weight = 4
 
