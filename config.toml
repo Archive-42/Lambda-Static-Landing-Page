@@ -45,7 +45,7 @@ url = "/team/"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "Resources"
 url = "/about/"
 weight = 3
 
