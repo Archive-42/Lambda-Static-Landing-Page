@@ -33,22 +33,22 @@ google_tag_manager_id = ""
 
 [[menu.main]]
 name = "Projects"
-url = "/services/"
+url = "https://lambda-static-resources.netlify.app/1-projects/directory.html"
 weight = 1
 
 [[menu.main]]
 name = "Content"
-url = "/team/"
+url = "https://lambda-static-resources.netlify.app/2-content/directory.html"
 weight = 2
 
 [[menu.main]]
 name = "Resources"
-url = "/about/"
+url = "https://lambda-static-resources.netlify.app/2-resources/directory.html"
 weight = 3
 
 [[menu.main]]
-name = "Other Websites"
-url = "/contact/"
+name = "Blog"
+url = "https://best-celery-b2d7c.netlify.app/docs/links/"
 weight = 4
 
 [[menu.footer]]
