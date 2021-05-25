@@ -48,7 +48,7 @@ weight = 3
 
 [[menu.main]]
 name = "Other Websites"
-url = "/contact/"
+url = "https://best-celery-b2d7c.netlify.app/docs/links/"
 weight = 4
 
 [[menu.footer]]
