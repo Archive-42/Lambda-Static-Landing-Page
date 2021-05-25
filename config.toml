@@ -11,7 +11,7 @@ google_tag_manager_id = ""
   hide_view_all_services = true
 
   [params.logo]
-  mobile = "images/logo/logo-mobile.svg"
+  mobile = "images/imageonline-co-overlayed-image.png"
   mobile_height = "36px"
   desktop = "images/webdevhub.PNG"
   desktop_height = "36px"
