@@ -43,7 +43,7 @@ weight = 2
 
 [[menu.main]]
 name = "Resources"
-url = "https://lambda-static-resources.netlify.app/3-directory/directory.html"
+url = "https://lambda-static-resources.netlify.app/3-/directory.html"
 weight = 3
 
 [[menu.main]]
