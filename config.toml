@@ -33,7 +33,7 @@ google_tag_manager_id = ""
 
 [[menu.main]]
 name = "Projects"
-url = "/services/"
+url = "https://lambda-static-resources.netlify.app/"
 weight = 1
 
 [[menu.main]]
