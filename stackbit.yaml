@@ -345,3 +345,4 @@ models:
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
         description: Hide the intro image on mobile screen sizes
+        
