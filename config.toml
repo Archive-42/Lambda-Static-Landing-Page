@@ -53,7 +53,7 @@ weight = 4
 
 [[menu.main]]
 identifier = "lorem-ipsum"
-name = "lorem-ipsum"
+name = "Recent"
 url = "lorem-ipsum"
 weight = 0
 parent = "lorem-ipsum"
