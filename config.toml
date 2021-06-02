@@ -54,7 +54,7 @@ weight = 4
 [[menu.main]]
 identifier = "lorem-ipsum"
 name = "Recent"
-url = "/"
+url = "/a"
 weight = 0
 parent = "lorem-ipsum"
 type = "site_menu_item"
